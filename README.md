@@ -7,9 +7,11 @@
 **B**ook
 **E**ngine
 
-![About Page](images/about.jpg)
-![Demo Gif](images/demo.gif)
-![FAQ Page](images/faw.jpg)
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="images/about.jpg" alt="About Page" width="300">
+    <img src="images/demo.gif" alt="Demo Gif" width="300">
+    <img src="images/faq.jpg" alt="FAQ Page" width="300">
+</div>
 
 ## Inspiration
 
