@@ -1,4 +1,4 @@
-##SCRIBE
+## SCRIBE
 **S**anta Clara
 **C**ollections
 **R**ealtime
